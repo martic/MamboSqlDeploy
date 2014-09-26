@@ -1,0 +1,1 @@
+ALTER TABLE dbo.DimAccount ADD DefaultCurrency varchar(20) NULL
